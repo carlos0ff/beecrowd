@@ -1,4 +1,4 @@
-package linguagens.java;
+package linguagens.Java;
 
 import java.io.IOException;
 
