@@ -1,5 +1,3 @@
-package linguagens.java;
-
 import java.io.IOException;
 
 /**
