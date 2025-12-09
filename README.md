@@ -31,7 +31,6 @@ A estrutura segue uma organização simples e escalável, permitindo que novas s
 
 ## 🧪 Exercícios já resolvidos
 > A lista abaixo cresce automaticamente conforme você for adicionando novos desafios.
-
 <div align="center">
   <table style="width: 100%; max-width: 900px; border-collapse: collapse;">
     <thead>
@@ -39,7 +38,7 @@ A estrutura segue uma organização simples e escalável, permitindo que novas s
         <th style="padding: 12px; border: 1px solid #ddd;">Problema</th>
         <th style="padding: 12px; border: 1px solid #ddd;">Nome</th>
         <th style="padding: 12px; border: 1px solid #ddd;">Linguagens</th>
-        <th style="padding: 12px; border: 1px solid #ddd;">Docs</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Enunciados</th>
       </tr>
     </thead>
     <tbody>
@@ -47,34 +46,47 @@ A estrutura segue uma organização simples e escalável, permitindo que novas s
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px"><b>1000</b></td>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">Hello World!</td>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">
-          PHP • Java • C# • C++
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26">
         </td>
-        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">✔️</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">
+          <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1000">🔗 Ver</a>
+        </td>
       </tr>
       <tr>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px"><b>1001</b></td>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">Extremamente Básico</td>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">
-          C# • C++ • Java • PHP
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26">
         </td>
-        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">✔️</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">
+          <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1001">🔗 Ver</a>
+        </td>
       </tr>
       <tr>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">1002</td>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">(aguardando)</td>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">—</td>
-        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">—</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">
+          <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1002">🔗 Ver</a>
+        </td>
       </tr>
       <tr>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">1003</td>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">(aguardando)</td>
         <td style="padding: 12px; border: 1px solid #ddd;" width="400px">—</td>
-        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">—</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">
+          <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1003">🔗 Ver</a>
+        </td>
       </tr>
     </tbody>
   </table>
 </div>
-
 
 ---
 
@@ -82,4 +94,5 @@ A estrutura segue uma organização simples e escalável, permitindo que novas s
 
 Sinta-se livre para abrir PRs, sugerir melhorias ou enviar novas soluções.
 
+---
 
