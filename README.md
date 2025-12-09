@@ -32,9 +32,54 @@ A estrutura segue uma organização simples e escalável, permitindo que novas s
 ## 🧪 Exercícios já resolvidos
 > A lista abaixo cresce automaticamente conforme você for adicionando novos desafios.
 
+<div align="center">
+  <table style="width: 100%; max-width: 900px; border-collapse: collapse;">
+    <thead>
+      <tr style="background-color: #f2f2f2;">
+        <th style="padding: 12px; border: 1px solid #ddd;">Problema</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Nome</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Linguagens</th>
+        <th style="padding: 12px; border: 1px solid #ddd;">Docs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px"><b>1000</b></td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">Hello World!</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">
+          PHP • Java • C# • C++
+        </td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">✔️</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px"><b>1001</b></td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">Extremamente Básico</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">
+          C# • C++ • Java • PHP
+        </td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">✔️</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">1002</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">(aguardando)</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">—</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">—</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">1003</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">(aguardando)</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">—</td>
+        <td style="padding: 12px; border: 1px solid #ddd;" width="400px">—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 ---
 
 ## 🤝 Contribuições
 
 Sinta-se livre para abrir PRs, sugerir melhorias ou enviar novas soluções.
+
 
