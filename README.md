@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/carlos0ff/estrutura_de_dados?style=for-the-badge&label=STARS&color=yellow&logo=github)](https://github.com/carlos0ff/estrutura_de_dados/stargazers)
-![PHP](https://img.shields.io/badge/PHP-Intermediário-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediário-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Novato-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Novato-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-[![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge&logo=opensourceinitiative)](https://github.com/carlos0ff/estrutura_de_dados/blob/main/LICENSE)
-
+  <img src="https://img.shields.io/github/stars/carlos0ff/beecrowd?style=for-the-badge&logo=github&logoColor=white&color=fbbf24&label=Stars" alt="Stars">
+  <img src="https://img.shields.io/github/contributors/carlos0ff/beecrowd?style=for-the-badge&logo=github&logoColor=white&color=8b5cf6&label=Contribuidores" alt="Contribuidores">
+  <img src="https://img.shields.io/github/languages/count/carlos0ff/beecrowd?style=for-the-badge&logo=windows-terminal&logoColor=white&color=f59e0b&label=Linguagens" alt="Linguagens">
+  <img src="https://img.shields.io/github/languages/top/carlos0ff/beecrowd?style=for-the-badge&color=ef4444" alt="Linguagem Principal" />
+  <img src="https://img.shields.io/badge/Desafios-100%2B-success?style=for-the-badge&logo=check-circle&logoColor=white" alt="Desafios">
+  <img src="https://img.shields.io/badge/Licença-MIT-22c55e?style=for-the-badge" alt="Licença MIT" />
+  
 </div>
 
 ---
@@ -37,3 +37,4 @@ A estrutura segue uma organização simples e escalável, permitindo que novas s
 ## 🤝 Contribuições
 
 Sinta-se livre para abrir PRs, sugerir melhorias ou enviar novas soluções.
+
